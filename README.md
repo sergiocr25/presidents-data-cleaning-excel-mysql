@@ -82,7 +82,6 @@ The SQL cleaning process included:
 - `data/cleaned/`: final cleaned dataset exported from MySQL.
 - `excel/`: Excel workbook containing the cleaning process.
 - `sql/`: MySQL cleaning script.
-- `images/`: screenshots showing the cleaning process and final dataset.
 
 ## Why This Project Matters
 
